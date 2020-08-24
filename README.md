@@ -1,0 +1,1 @@
+This is how I deployed [emedvedev/slackin-extended](https://github.com/emedvedev/slackin-extended) to Cloud Run (managed) with Secret Manager for the [Open Source Firmware Slack](https://slack.osfw.dev).
